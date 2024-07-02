@@ -41,6 +41,5 @@
 
 <p align="center">
 
-  <br/>
-   longest streak on my GitHub account
+   Longest streak on my GitHub account
 </p>
