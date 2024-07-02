@@ -2,9 +2,9 @@
 <img class='image-center' src="https://i.ibb.co/zHDCc5L/github-header-image-1.png" />
 </a>
 <br>
-<br>
-## :eyes: Current overview
 
+## :eyes: Current overview
+<br>
 
 
 ### 🔭 I’m a student in Dhaka Polytechnic institute . 
