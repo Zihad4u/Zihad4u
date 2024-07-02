@@ -34,6 +34,7 @@
 
 <br>
 ## :chart_with_upwards_trend: Current Stats
+<br>
 <p align="center">
   <img src="https://i.imgur.com/GZHodUG.png" width="100px"/>
   <h3 align="center">Github  Streak Stats</h3>
