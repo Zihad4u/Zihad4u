@@ -6,7 +6,7 @@
 ## :eyes: Current overview
 <br>
 
-### 🔭 I’m a student in Dhaka Polytechnic institute . 
+### 🔭 I’m a student at Dhaka Polytechnic institute . 
 ### 🌱 I’m exploring -Three js for web. 
 ### 👯 I’m looking - To collaborate on open source projects. 
 ### 🤔 I’m trying - To learn three js. 
