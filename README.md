@@ -39,7 +39,3 @@
   <h3 align="center">Github  Streak Stats</h3>
 </p>
 
-<p align="center">
-
-   Longest streak on my GitHub account
-</p>
