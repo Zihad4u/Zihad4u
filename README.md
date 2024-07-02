@@ -29,5 +29,5 @@
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB Icon" width="10" height="50"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB Icon" width="50" height="50"/>
 </p><br/>
