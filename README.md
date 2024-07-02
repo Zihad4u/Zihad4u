@@ -29,5 +29,5 @@
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png" alt="MongoDB Icon" />
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png" alt="MongoDB Icon" style="filter: invert(41%) sepia(93%) saturate(410%) hue-rotate(83deg) brightness(101%) contrast(101%);" />
 </p><br/>
