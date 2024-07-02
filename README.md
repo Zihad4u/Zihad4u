@@ -31,3 +31,16 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB Icon" width="60" height="60"/>
 </p><br/>
+
+<br>
+## :chart_with_upwards_trend: Current Stats
+<p align="center">
+  <img src="https://i.imgur.com/GZHodUG.png" width="100px"/>
+  <h3 align="center">Github  Streak Stats</h3>
+</p>
+
+<p align="center">
+
+  <br/>
+   longest streak on my GitHub account
+</p>
