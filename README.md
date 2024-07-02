@@ -15,7 +15,7 @@
 ## :computer: Technologies that I know
 
 <br>
-<br>
+
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
